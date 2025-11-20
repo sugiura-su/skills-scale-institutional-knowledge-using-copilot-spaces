@@ -14,8 +14,10 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Include cross-functional team: Developers, PM, Product Manager, UX Designer, Technical Writer, DevOps Engineer, Support Lead, Data Analyst
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Ensure all roles have opportunity to share perspective
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
@@ -29,5 +31,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - Success criteria:
 
 ## Continuous Improvement Culture
-- Measure impact of action items
+- Measure impact of action items (Data Analyst tracks metrics)
 - Celebrate improvements and make small, iterative changes
+- Gather feedback from all roles (UX Designer for user research, Support Lead for customer issues, DevOps Engineer for reliability, Technical Writer for documentation quality)
+- Review collaboration effectiveness (see [Cross-Functional Collaboration Guide](octoacme-cross-functional-collaboration.md))
