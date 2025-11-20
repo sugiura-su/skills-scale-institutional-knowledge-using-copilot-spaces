@@ -23,11 +23,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Project name:
 - Problem statement:
 - Objective / Goal (SMART):
-- Success metrics:
+- Success metrics: (work with Data Analyst to define measurable outcomes)
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: (consider need for PM, Product Manager, Developers, UX Designer, Technical Writer, DevOps Engineer, Support Lead, Data Analyst)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
