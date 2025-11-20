@@ -9,12 +9,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+1. Kickoff meeting with stakeholders and delivery team (includes UX Designer, Technical Writer, DevOps Engineer, Support Lead, Data Analyst)
+2. Create prioritized backlog with acceptance criteria (Product Manager, with input from UX Designer on user flows)
+3. Estimate scope (T-shirt sizing or story points) (Developers, DevOps Engineer for infrastructure work)
+4. Define Definition of Done (DoD) (includes documentation completeness, accessibility checks, monitoring setup)
+5. Identify dependencies and integration points (cross-functional team including DevOps for infrastructure, Support for customer impact)
+6. Create release plan and milestone map (PM, with input from Support Lead for customer communication timing)
+7. Define success metrics and measurement strategy (Data Analyst, Product Manager)
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +37,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (all roles invited)
 - [ ] Backlog prioritized and estimated
+- [ ] UX design approach and key user flows identified
+- [ ] Documentation plan defined with Technical Writer
+- [ ] Infrastructure and deployment strategy confirmed with DevOps Engineer
+- [ ] Success metrics and measurement plan established with Data Analyst
+- [ ] Customer communication plan reviewed with Support Lead
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (includes docs, tests, monitoring, accessibility)
 - [ ] Initial test plan / QA approach drafted

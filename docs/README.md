@@ -26,7 +26,8 @@ Quality assurance is woven into every stage of execution. Each pull request must
 ### Core Process Documents
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** — Introduction to OctoAcme's project management principles, roles, and lifecycle
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed definitions of team roles including Developers, Product Managers, and Project Managers
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed definitions of team roles including Developers, Product Managers, Project Managers, UX Designers, Technical Writers, DevOps Engineers, Support Leads, and Data Analysts
+- **[Cross-Functional Collaboration Guide](octoacme-cross-functional-collaboration.md)** — How different roles work together throughout the project lifecycle, including RACI matrix and collaboration best practices
 
 ### Project Lifecycle Documents
 
